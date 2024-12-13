@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
