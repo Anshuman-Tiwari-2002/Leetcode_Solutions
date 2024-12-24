@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
