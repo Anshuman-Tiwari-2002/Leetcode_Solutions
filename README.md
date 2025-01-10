@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
+| [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
