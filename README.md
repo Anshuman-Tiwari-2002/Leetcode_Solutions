@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2145-grid-game](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
+| [2145-grid-game](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
