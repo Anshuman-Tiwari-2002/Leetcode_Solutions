@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Math
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
