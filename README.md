@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
