@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1876-map-of-highest-peak](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
