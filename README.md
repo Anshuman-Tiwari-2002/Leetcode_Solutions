@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -200,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
