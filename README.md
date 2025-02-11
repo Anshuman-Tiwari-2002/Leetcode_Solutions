@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3447-clear-digits) |
@@ -219,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
