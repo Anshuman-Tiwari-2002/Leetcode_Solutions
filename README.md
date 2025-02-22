@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -265,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
