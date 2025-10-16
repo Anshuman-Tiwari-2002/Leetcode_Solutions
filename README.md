@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Breadth-First Search
 |  |
 | ------- |
