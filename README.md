@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3429-special-array-i) |
+| [3453-separate-squares-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Breadth-First Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3453-separate-squares-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 ## Greedy
 |  |
 | ------- |
