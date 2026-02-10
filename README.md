@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0787-sliding-puzzle](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
