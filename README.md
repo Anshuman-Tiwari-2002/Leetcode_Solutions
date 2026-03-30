@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3447-clear-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Tree
 |  |
 | ------- |
