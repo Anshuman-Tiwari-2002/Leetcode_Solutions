@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-map-of-highest-peak](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anshuman-Tiwari-2002/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
